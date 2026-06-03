@@ -1,11 +1,7 @@
+streamlit
 tensorflow==2.21.0
+keras==3.14.1
 pandas
 numpy
 scikit-learn
-tensorboard
 matplotlib
-streamlit
-ipykernel
-notebook
-jupyter
-scikeras
