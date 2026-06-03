@@ -5,7 +5,7 @@ from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing import sequence
 
 #load the model
-model = load_model('models/simple_rnn_imdb.keras')
+model = load_model('simple_rnn_imdb.keras')
 
 # load IMDB database word index
 word_index = imdb.get_word_index()
